@@ -1,0 +1,5 @@
+nome = input('Qual seu nome: ')
+print('Seu nome é ', nome)
+sobrenome = input('Digite seu sobrenome: ')
+print('Seu sobrenome é', sobrenome)
+print('Seu nome completo é ',nome, sobrenome)
